@@ -1,0 +1,4 @@
+%{
+  "dep_from_git": {:git, "https://github.com/robashton/erlang.net.git", "69d235d8411f20b6b787ad6910a89256cad5dc94", [branch: "master"]},
+  "dotnet": {:git, "https://github.com/robashton/erlang.net.git", "bd7adfe4e9d0aa3aa9159fdb134cdb432c501c8e", [branch: "master"]},
+}
